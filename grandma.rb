@@ -3,7 +3,7 @@ def speak_to_grandma(string)
       "I LOVE YOU TOO PUMPKIN!"
       
       elsif string != string.upcase
-       "HUH?! SPEAK UP,SONNY!"
+       "HUH?! SPEAK UP, SONNY!"
   
 else 
   "NO, NOT SINCE 1938!"
